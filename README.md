@@ -1,3 +1,6 @@
+# SHBS V29
+1. SERVER ZIP:
+
 # Requirements:
 1. a brain...
 
