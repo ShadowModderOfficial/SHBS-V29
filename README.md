@@ -1,6 +1,5 @@
 # Requirements:
-
-# a brain...
+a brain...
 
 # Working:
 Friend (add, status, remove)
