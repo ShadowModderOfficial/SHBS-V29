@@ -2,12 +2,12 @@
 1. a brain...
 
 # Working:
-Friend (add, status, remove)
-Club
-Shop
-Online Rooms
-bot interacting with the server
-Brawl Pass
+1. Friend (add, status, remove)
+2. Club
+3. Shop
+4. Online Rooms
+5. bot interacting with the server
+6. Brawl Pass
 and more
 
 # How to play SHBS V29:
