@@ -11,9 +11,9 @@
 and more
 
 # How to play SHBS V29:
-download client
-download server
-download pydroid (if you want to run from the phone)
-open in pydroid core.py located in the server folder
-click on the run button
-now open the game and play
+1. download client
+2. download server
+3. download pydroid (if you want to run from the phone)
+4. open in pydroid core.py located in the server folder
+5. click on the run button
+6. now open the game and play
