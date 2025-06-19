@@ -1,5 +1,5 @@
 # SHBS V29
-1. SERVER ZIP:
+1. SERVER ZIP:https://www.mediafire.com/file/wcazxai2uppgl8e/SHBS-V29.zip/file
 
 # Requirements:
 1. a brain...
