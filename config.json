@@ -1,0 +1,29 @@
+{
+    "Gems": 0,
+    "Gold": 0,
+    "Tickets": 0,
+    "Starpoints": 0,
+    "BrawlBoxTokens": 0,
+    "BigBoxTokens": 0,
+    "ExperiencePoints": 0,
+    "Trophies": 0,
+    "ShowPacketsInLog": true,
+    "ThemeID": 16,
+    "SupportedContentCreator": "",
+    "Maintenance": false,
+    "maintenance": false,
+    "Patch": false,
+    "buybp": [
+        3
+    ],
+    "vips": [],
+    "banID": [],
+    "CCC": [],
+    "ClubBlock": [],
+    "DelName": [],
+    "PatchUrl": "http://192.168.0.103:8080",
+    "UpdateUrl": "https://t.me/ShinyServers",
+    "block": [],
+    "Skins": [],
+    "Skinse": []
+}
